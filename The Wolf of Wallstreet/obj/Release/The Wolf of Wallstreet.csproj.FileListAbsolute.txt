@@ -1,0 +1,12 @@
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\Resources\alarm clock.ttf
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\Resources\Hanged Letters.ttf
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\The Wolf of Wallstreet.exe.config
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\The Wolf of Wallstreet.exe
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\The Wolf of Wallstreet.pdb
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The_Wolf_of_Wallstreet.Form1.resources
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The_Wolf_of_Wallstreet.GameResources.resources
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The_Wolf_of_Wallstreet.Properties.Resources.resources
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The Wolf of Wallstreet.csproj.GenerateResource.Cache
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The Wolf of Wallstreet.exe
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\obj\Release\The Wolf of Wallstreet.pdb
+D:\Doc\Học tập\Lập trình game\C#\Project\The Wolf of Wallstreet\The Wolf of Wallstreet\bin\Release\Resources\CHINESETAKEAWAY.ttf
